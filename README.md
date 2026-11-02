@@ -54,6 +54,7 @@ You should see two packets, a query and a response
 <img width="300" height="300" alt="Screenshot 2026-10-31 173856" src="https://github.com/user-attachments/assets/c2f646f4-ee61-4a6d-957c-71c32f687ceb" />
 Click the query. The Source is your laptop and the Destination is your DNS server.
 Answer1: 10.223.199.18
+
 Answer 2: DNS server IP is 10.223.199.238
 
 Now click the response. In the middle pane expand Domain Name System (response), then
